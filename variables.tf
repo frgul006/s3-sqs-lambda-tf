@@ -4,6 +4,6 @@ variable "region" {
 }
 
 variable "app_env" {
-  default     = "s3-sqs-lambda-demo"
+  default     = "frgul006-s3-sqs-lambda-demo"
   description = "Common prefix for all Terraform created resources"
 }
